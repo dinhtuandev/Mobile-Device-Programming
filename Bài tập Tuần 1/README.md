@@ -14,3 +14,5 @@ Em tin rằng trong 10 năm tới, lập trình di động sẽ tiếp tục ph�
 - Nhu cầu sử dụng smartphone và thiết bị di động ngày càng tăng trên toàn cầu.  
 - Công nghệ mới xuất hiện như kính thông minh (sản phẩm của Meta) được ra mắt, IoT và AI tích hợp vào mobile app mở ra nhiều cơ hội mới.  
 - Người dùng ngày càng phụ thuộc vào ứng dụng di động trong công việc, học tập, giải trí và thương mại điện tử.  
+## 3. Demo app 
+[![Xem video](https://raw.githubusercontent.com/dinhtuandev/Mobile-Device-Programming/main/Bài%20tập%20Tuần%201/demovideoapp.mp4)
