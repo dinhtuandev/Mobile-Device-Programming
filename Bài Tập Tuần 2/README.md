@@ -1,0 +1,1 @@
+[![Xem video](https://raw.githubusercontent.com/dinhtuandev/Mobile-Device-Programming/main/Bài%20tập%20Tuần%202/demovideoapp.webm)
