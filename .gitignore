@@ -1,0 +1,32 @@
+# Gradle
+.gradle/
+/**/build/
+/.idea/
+/.gradle/
+
+# Local configuration
+local.properties
+*.iml
+
+# Android Studio
+.idea/
+.gradle
+build/
+captures/
+output.json
+
+# Kotlin/Java
+*.class
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Others
+*.keystore
+*.jks
+gradle-wrapper.jar
