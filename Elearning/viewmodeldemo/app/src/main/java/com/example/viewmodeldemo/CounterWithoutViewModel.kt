@@ -9,7 +9,7 @@ import androidx.compose.ui.unit.dp
 @Composable
 fun CounterWithoutViewModel() {
 
-
+     // Dữ liệu chỉ tồn tại trong vòng đời Composable, không qua được khi xoay màn hình
     var count by remember { mutableStateOf(0) }
 
     Scaffold(
